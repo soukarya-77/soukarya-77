@@ -80,7 +80,6 @@
 ---
 
 ### 🎓 Certifications & Achievements
-- 🥇 1st Place in Scholarly Thesis (3MST) at eHaCON 2025
 - 📄 IEEE Published Research Author
 - 🧠 Completed Deep Learning certifications 
 - 🧾 Certified in:
