@@ -61,7 +61,8 @@
 
 - 📫 How to reach me: [👉 Click](mailto:maitysoukarya1@gmail.com)
 - 📄 Explore My [RESUME](https://drive.google.com/file/d/1SnkQvwCWCjJvmUVj0FUJMk_kWmd_2t4a/view?usp=drive_link)
-- 🔗 IEEE Xplore Link:[👉 Click](https://ieeexplore.ieee.org/document/11396176)
+- 🔗 IEEE Xplore Link: [👉 Click](https://ieeexplore.ieee.org/document/11396176)
+- 🔬 ORCID: [👉 Click](https://orcid.org/0009-0000-6215-2075)
 
 ---
 
