@@ -138,7 +138,7 @@ Neural Networks</td>
 </tr>
 
 <tr>
-<td>🌿 <b>AgroLeaf AI</b></td>
+<td>🌿 <b>Green Amaranth Leaf Disease Detection using YOLO</b></td>
 <td>YOLO, TensorFlow, OpenCV, Roboflow, Python</td>
 <td>AI-powered Green Amaranth Leaf Disease Detection using Computer Vision and Deep Learning.</td>
 </tr>
