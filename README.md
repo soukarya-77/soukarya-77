@@ -189,13 +189,6 @@ Neural Networks</td>
         width="560"
       />
     </td>
-    <td>
-      <img
-        src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=soukarya-77&layout=compact&theme=dark"
-        alt="Top Languages."
-        width="480"
-      />
-    </td>
   </tr>
 </table>
 
