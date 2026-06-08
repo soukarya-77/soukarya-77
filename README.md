@@ -51,8 +51,9 @@
 </tr>
 
 <tr>
-<td>📈 Data Analysis</td>
+<td>📊 Data Visualization & Manipulation</td>
 <td>🔬 Research</td>
+<td>🤖 Roboflow</td>
 </tr>
 
 </tr>
