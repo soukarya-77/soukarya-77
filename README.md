@@ -24,36 +24,42 @@
 <th>Skill</th>
 <th>Skill</th>
 <th>Skill</th>
+<th>Skill</th>
 </tr>
 
 <tr>
 <td>🤖 Artificial Intelligence</td>
 <td>📊 Machine Learning</td>
 <td>🐍 Python</td>
+<td>💻Data Structures & Algorithms</td>
 </tr>
 
 <tr>
 <td>☕ Java</td>
 <td>💻 C Programming</td>
 <td>🧠 Deep Learning</td>
+<td>🤖 AI Model Training</td>
 </tr>
 
 <tr>
 <td>👁️ Computer Vision</td>
 <td>🎯 YOLO</td>
 <td>🔶 TensorFlow</td>
+<td>🖼️ Image Processing</td> 
 </tr>
 
 <tr>
 <td>📷 OpenCV</td>
 <td>🗄️ DBMS</td>
 <td>🔗 OOPs</td>
+<td>🔎 Pattern Recognition</td> 
 </tr>
 
 <tr>
 <td>📊 Data Visualization & Manipulation</td>
 <td>🔬 Research</td>
 <td>🤖 Roboflow</td>
+<td>🎯 YOLO Model</td> 
 </tr>
 
 </tr>
