@@ -155,6 +155,11 @@ Neural Networks</td>
 <td>Deep Learning, Ultrasonic Sensors, IR Sensors, Radar Imaging, Python</td>
 <td>Low-light and nighttime object detection using fused ultrasonic and IR/Radar sensing for smart parking applications.</td>
 </tr>
+<tr>
+<td>🎵 <b>Explainable Indian Raga Classification using CNN-LSTM</b></td>
+<td>CNN, LSTM, MFCC, SHAP, TensorFlow, Python</td>
+<td>AI-powered Indian Raga Classification using Spectro-Temporal Deep Learning and Explainable AI (XAI), achieving 95.56% classification accuracy.</td>  
+</tr>
 
 </table>
 
