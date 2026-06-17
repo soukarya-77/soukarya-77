@@ -152,10 +152,7 @@ Passionate about leveraging **Artificial Intelligence, Deep Learning, and Comput
 
 🔗 **DOI:** https://doi.org/10.1109/AISP68263.2025.11396176
 
-🎯 **Research Areas:** Computer Vision • Deep Learning • YOLO • Object Detection • Precision Agriculture
-
-**Overview:**
-Developed a YOLO-based deep learning framework for automated Green Amaranth leaf disease detection using a custom agricultural dataset. The proposed system enables accurate disease localization and supports early diagnosis for smart farming and precision agriculture applications.
+🎯 **Research Areas:**  Computer Vision • Deep Learning • YOLO • Object Detection • Precision Agriculture
 
 ---
 
