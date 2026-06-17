@@ -165,7 +165,7 @@ Passionate about leveraging **Artificial Intelligence, Deep Learning, and Comput
 
 ---
 
-### 📈 Research Vision
+## 💭 Research Philosophy
 
 *"Building intelligent, explainable, and impactful AI solutions that contribute to scientific advancement and solve real-world problems across agriculture, healthcare, and emerging technologies."*
 
