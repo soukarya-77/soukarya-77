@@ -76,10 +76,19 @@
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,github,vscode,html,css,js,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,github,vscode,html,css,js" alt="Tech Stack" />
 </p>
 
 ---
+## 🛠️ Tools & Platforms
+
+- 💻 VS Code
+- ☁️ Google Colab
+- 🔗 GitHub
+- 🏷️ Roboflow
+- 📊 Jupyter Notebook
+  
+-----
 
 
 ### 🎯 Currently Working On
