@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"><span style="color:#00BFFF;">Soukarya Maity</span></h1>
-<h3 align="center"> AI Explorer | ML Enthusiast | Tech Innovator</h3>
+<h3 align="center"> AI Explorer | ML Enthusiast | Tech Innovator | IEEE Author </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Welcome+to+My+Digital+Space!;Building+Future+Tech+Today" alt="Typing SVG" />
