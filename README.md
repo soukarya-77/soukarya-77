@@ -134,6 +134,36 @@ Neural Networks</td>
 - 🏛️ Participated in Google Developer Group (GDG) 
 
 ---
+## 🔬 Research & Publications
+
+Passionate about leveraging **Artificial Intelligence, Deep Learning, and Computer Vision** to solve real-world challenges through research-driven innovation. My research focuses on developing intelligent systems that bridge the gap between academic advancements and practical applications in agriculture, pattern recognition, and explainable AI.
+
+### 📚 Published Research
+
+#### 🌿 Utilizing YOLO Framework for Green Amaranth Leaf Disease Detection
+
+**Authors:** Chiradeep Mukherjee, **Soukarya Maity**, Rayo Bose, Rounak Saha, Anwesha Samanta, Anuvab Mukherjee, and Maumita Chakraborty
+
+🏛️ **Conference:** 2025 5th International Conference on Artificial Intelligence and Signal Processing (AISP)
+
+📄 **Publisher:** IEEE
+
+📅 **Year:** 2025
+
+🔗 **DOI:** https://doi.org/10.1109/AISP68263.2025.11396176
+
+🎯 **Research Areas:** Computer Vision • Deep Learning • YOLO • Object Detection • Precision Agriculture
+
+**Overview:**
+Developed a YOLO-based deep learning framework for automated Green Amaranth leaf disease detection using a custom agricultural dataset. The proposed system enables accurate disease localization and supports early diagnosis for smart farming and precision agriculture applications.
+
+---
+
+### 📈 Research Vision
+
+*"Building intelligent, explainable, and impactful AI solutions that contribute to scientific advancement and solve real-world problems across agriculture, healthcare, and emerging technologies."*
+
+---
 
 ### 📂 Featured Projects
 
@@ -164,6 +194,15 @@ Neural Networks</td>
 </table>
 
 ---
+## 🌍 Open Source Contributions
+
+- 🤖 Contributing to Artificial Intelligence and Machine Learning projects
+- 👁️ Exploring innovative Computer Vision applications
+- 🚀 Building practical AI solutions for real-world challenges
+- 📊 Developing intelligent systems using Deep Learning techniques
+- 🌱 Applying AI technologies to Smart Agriculture and sustainability
+- 🎯 Experimenting with Object Detection and Pattern Recognition models
+-----
 
 ### 📫 Connect With Me
 
@@ -173,6 +212,11 @@ Neural Networks</td>
 </p>
 
 ---
+🌟 Motto
+
+"Research. Innovate. Build. Impact."
+
+----
 
 
 ### 🐙 Fun Fact
